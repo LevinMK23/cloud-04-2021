@@ -7,7 +7,7 @@
     <groupId>com.geekbrains</groupId>
     <artifactId>cloud-04-2021</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>2</version>
     <modules>
         <module>server</module>
         <module>client</module>
